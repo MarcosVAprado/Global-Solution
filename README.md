@@ -1,5 +1,10 @@
 # Global-Solution
 
+Integrantes
+- Gabriel Silva Novais - RM566370
+- Artur Rodrigues Trindade Paes – RM564309
+- Marcos Vinicius Aquino Prado - RM562775
+
 Monitoramento de Nível de Água com Arduino (Sensor Ultrassônico + LCD + LEDs + Buzzer)
 
 Descrição do Problema
